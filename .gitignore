@@ -16,12 +16,17 @@ venv.bak/
 # Environment Secrets
 .env
 .env.local
+.env.*.local
 
-# Temp OCR & Render Caches
+# Generated OCR page artifacts (recreated by run_ocr_pages.py)
+output/page_*/
 output/temp_pages/
 output/_temp/
 **/_temp*
 *.tmp
+
+# Generated exports (JSON is intentionally tracked as the offline fallback dataset)
+teable_exported_data.csv
 
 # Vector Store Cache
 chroma_db/
