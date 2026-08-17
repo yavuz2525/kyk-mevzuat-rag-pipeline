@@ -1,1 +1,0 @@
-<table><tr><td></td><td>9/4/2021</td><td>31449</td></tr><tr><td colspan="3">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr><tr><td></td><td>Tarihi</td><td>Sayısı</td></tr><tr><td>1.</td><td>20/4/2023</td><td>32169</td></tr><tr><td>2.</td><td>25/10/2024</td><td>32703</td></tr><tr><td>3.</td><td>18/7/2025</td><td>32959</td></tr></table>
