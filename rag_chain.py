@@ -1,56 +1,73 @@
-"""
-LangChain RAG Chain for KYK Dormitory Regulation QA using DeepSeek & ChromaDB.
-"""
+"""LangChain RAG chain for KYK regulation QA using DeepSeek and ChromaDB."""
 
 import os
+
 from dotenv import load_dotenv
-from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_chroma import Chroma
 from langchain_core.prompts import ChatPromptTemplate
-from langchain_core.runnables import RunnablePassthrough
-from langchain_core.output_parsers import StrOutputParser
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 
 load_dotenv()
 
-# ── Paths ──────────────────────────────────────────────────────────
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CHROMA_PATH = os.path.join(BASE_DIR, "chroma_db")
 
-# ── API Configurations ─────────────────────────────────────────────
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "")
 DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
 DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-chat")
 
-# ── Pricing (per 1M tokens) ────────────────────────────────────────
-DEEPSEEK_INPUT_PRICE = 0.14    # $ per 1M input tokens
-DEEPSEEK_OUTPUT_PRICE = 0.28   # $ per 1M output tokens
 
-# ── System Prompt ──────────────────────────────────────────────────
+def _env_float(name, default):
+    value = os.getenv(name, "").strip()
+    if not value:
+        return default
+    try:
+        return float(value)
+    except ValueError as exc:
+        raise ValueError(f"{name} must be a number, got {value!r}.") from exc
+
+
+DEEPSEEK_INPUT_PRICE = _env_float("DEEPSEEK_INPUT_PRICE_PER_M", 0.14)
+DEEPSEEK_OUTPUT_PRICE = _env_float("DEEPSEEK_OUTPUT_PRICE_PER_M", 0.28)
+
 SYSTEM_PROMPT = """Sen bir KYK (Kredi ve Yurtlar Kurumu) mevzuat ve yurt hizmetleri yönetmeliği uzmanısın.
-Aşağıda sana verilen bağlam (context), KYK yönetmeliğinin ilgili bölümlerinden ve Teable bilgi tabanından alınmıştır.
+Aşağıda sana verilen bağlam, KYK yönetmeliğinin ilgili bölümlerinden alınmıştır.
 
 Kurallar:
 1. YALNIZCA verilen bağlamdaki resmi hükümlere dayanarak cevap ver.
-2. Bağlamda cevabı bulunmayan sorular için kesinlikle tahmin yürütme ve "Bu konuda yönetmelikte bir bilgi bulunmamaktadır." şeklinde belirt.
-3. Cevabında mutlaka hangi bölümden yararlandığını (Bölüm Adı veya Etiket) açıkça belirt.
-4. Cevapları maddeler halinde, net, resmi ve anlaşılır bir dille düzenle.
-5. İlgili Madde numaralarını (ör. Madde 6, Madde 18) kesinlikle belirt.
+2. Bağlamda cevabı bulunmayan sorular için tahmin yürütme; "Bu konuda yönetmelikte bir bilgi bulunmamaktadır." de.
+3. Cevabında yararlandığın bölüm adını veya etiketi açıkça belirt.
+4. Cevapları net, resmi ve anlaşılır biçimde düzenle.
+5. İlgili madde numaralarını (ör. Madde 6, Madde 18) belirt.
 
-Bağlam (KYK Yönetmeliği İlgili Bölümleri):
+Bağlam:
 {context}
+"""
 
-Soru: {question}
-Cevap:"""
+prompt = ChatPromptTemplate.from_messages(
+    [
+        ("system", SYSTEM_PROMPT),
+        ("human", "Soru: {question}\nCevap:"),
+    ]
+)
 
-prompt = ChatPromptTemplate.from_messages([
-    ("system", SYSTEM_PROMPT),
-])
+
+def _require_key(value, env_name):
+    if not value or value.startswith("your_"):
+        raise RuntimeError(f"{env_name} is not configured. Copy .env.example to .env and set it.")
+    return value
 
 
 def get_vector_store():
-    """Lazy initialization of ChromaDB vector store."""
-    embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
+    openai_key = _require_key(OPENAI_API_KEY, "OPENAI_API_KEY")
+    if not os.path.isdir(CHROMA_PATH):
+        raise FileNotFoundError(
+            f"ChromaDB not found at {CHROMA_PATH}. Run: python embed_summaries.py"
+        )
+    embeddings = OpenAIEmbeddings(
+        model="text-embedding-3-small", api_key=openai_key
+    )
     return Chroma(
         persist_directory=CHROMA_PATH,
         embedding_function=embeddings,
@@ -58,90 +75,97 @@ def get_vector_store():
     )
 
 
-def format_docs(docs):
-    """Format retrieved documents into a single context string, deduplicating by record_id."""
-    seen_ids = set()
-    parts = []
-    idx = 0
+def _doc_identity(doc):
+    metadata = doc.metadata or {}
+    return (
+        metadata.get("record_id")
+        or metadata.get("etiket")
+        or metadata.get("subject")
+        or doc.page_content
+    )
+
+
+def deduplicate_docs(docs):
+    seen = set()
+    unique = []
     for doc in docs:
-        record_id = doc.metadata.get("record_id", "")
-        if record_id in seen_ids:
+        identity = _doc_identity(doc)
+        if identity in seen:
             continue
-        seen_ids.add(record_id)
-        idx += 1
-        etiket = doc.metadata.get("etiket", "")
-        subject = doc.metadata.get("subject", "")
-        markdown = doc.metadata.get("markdown_content", "")
+        seen.add(identity)
+        unique.append(doc)
+    return unique
+
+
+def format_docs(docs):
+    parts = []
+    for index, doc in enumerate(deduplicate_docs(docs), 1):
+        metadata = doc.metadata or {}
+        etiket = metadata.get("etiket", "")
+        subject = metadata.get("subject", "")
+        markdown = metadata.get("markdown_content", "")
         parts.append(
-            f"--- Bölüm {idx}: {etiket} ({subject}) ---\n"
+            f"--- Bölüm {index}: {etiket} ({subject}) ---\n"
             f"İçerik:\n{markdown}\n"
         )
     return "\n".join(parts)
 
 
-def deduplicate_docs(docs):
-    """Remove duplicate documents while preserving relevance order."""
-    seen_ids = set()
-    unique = []
-    for doc in docs:
-        record_id = doc.metadata.get("record_id", "")
-        if record_id not in seen_ids:
-            seen_ids.add(record_id)
-            unique.append(doc)
-    return unique
-
-
 def get_llm():
-    """Initialize DeepSeek Chat LLM."""
+    deepseek_key = _require_key(DEEPSEEK_API_KEY, "DEEPSEEK_API_KEY")
     return ChatOpenAI(
         model=DEEPSEEK_MODEL,
         base_url=DEEPSEEK_BASE_URL,
-        api_key=DEEPSEEK_API_KEY,
+        api_key=deepseek_key,
         temperature=0.2,
         max_tokens=4096,
     )
 
 
-def ask_with_sources(query: str, k: int = 5):
-    """
-    Runs the full RAG pipeline:
-    1. Retrieves similar summaries from ChromaDB
-    2. Injects full markdown context
-    3. Generates structured answer via DeepSeek LLM
-    4. Calculates token usage and estimated cost
+def _token_usage(ai_message):
+    usage_metadata = getattr(ai_message, "usage_metadata", None) or {}
+    token_usage = (ai_message.response_metadata or {}).get("token_usage", {})
 
-    Returns:
-        answer (str), docs (list), token_info (dict)
-    """
+    input_tokens = usage_metadata.get("input_tokens")
+    if input_tokens is None:
+        input_tokens = token_usage.get("prompt_tokens", 0)
+
+    output_tokens = usage_metadata.get("output_tokens")
+    if output_tokens is None:
+        output_tokens = token_usage.get("completion_tokens", 0)
+
+    total_tokens = usage_metadata.get("total_tokens")
+    if total_tokens is None:
+        total_tokens = token_usage.get("total_tokens", input_tokens + output_tokens)
+
+    return int(input_tokens or 0), int(output_tokens or 0), int(total_tokens or 0)
+
+
+def ask_with_sources(query: str, k: int = 5):
+    if not query or not query.strip():
+        raise ValueError("Query cannot be empty.")
+
     vector_store = get_vector_store()
     retriever = vector_store.as_retriever(search_kwargs={"k": k})
+    docs = deduplicate_docs(retriever.invoke(query.strip()))
+    if not docs:
+        raise RuntimeError("No matching regulation sections were found in ChromaDB.")
 
-    docs = retriever.invoke(query)
-    docs = deduplicate_docs(docs)
     context = format_docs(docs)
-
-    llm = get_llm()
-    chain = prompt | llm
-
-    ai_message = chain.invoke({"context": context, "question": query})
+    ai_message = (prompt | get_llm()).invoke(
+        {"context": context, "question": query.strip()}
+    )
     answer = ai_message.content
 
-    # Calculate token usage
-    usage = ai_message.response_metadata.get("token_usage", {})
-    input_tokens = usage.get("prompt_tokens", 0)
-    output_tokens = usage.get("completion_tokens", 0)
-    total_tokens = usage.get("total_tokens", 0)
-
+    input_tokens, output_tokens, total_tokens = _token_usage(ai_message)
     cost_usd = (
-        (input_tokens / 1_000_000) * DEEPSEEK_INPUT_PRICE +
-        (output_tokens / 1_000_000) * DEEPSEEK_OUTPUT_PRICE
+        (input_tokens / 1_000_000) * DEEPSEEK_INPUT_PRICE
+        + (output_tokens / 1_000_000) * DEEPSEEK_OUTPUT_PRICE
     )
 
-    token_info = {
+    return answer, docs, {
         "input_tokens": input_tokens,
         "output_tokens": output_tokens,
         "total_tokens": total_tokens,
         "cost_usd": cost_usd,
     }
-
-    return answer, docs, token_info
