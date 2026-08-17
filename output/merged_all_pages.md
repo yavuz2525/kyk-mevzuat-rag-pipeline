@@ -1,0 +1,661 @@
+# GENÇLİK VE SPOR BAKANLIĞI YURT HİZMETLERİ YÖNETMELİĞİ
+
+BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
+
+Amaç
+
+MADDE 1 – (1) Bu Yönetmeliğin amacı, yükseköğrenim öğrencilerinin eğitim-öğretimlerini kolaylaştırmak amacıyla Bakanlık tarafından işletilen yurtların idaresi ile barındırma usul ve esaslarını düzenlemektir.
+
+Kapsam
+
+MADDE 2 – (1) Bu Yönetmelik, Bakanlık tarafından işletilen yurtlarda barındırılacak öğrencilerde aranacak şartlar, yeni yurtların açılması, kapatılması, niteliğinin ve niceliğinin değiştirilmesi, yurtların idaresi, öğrenci disiplin işlemleri ile özel hizmet ve gece hizmetlerine ilişkin düzenlemeleri kapsar.
+
+Dayanak
+
+MADDE 3 – (1) Bu Yönetmelik; 16/8/1961 tarihli ve 351 sayılı Yüksek Öğrenim Kredi ve Yurt Hizmetleri Kanununun 46 ncı maddesi, 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 184 üncü maddesinin birinci fıkrasının (ğ) bendi ve 188 inci maddesine dayanılarak hazırlanmıştır.
+
+Tanımlar
+
+MADDE 4 – (Değişik:RG-18/7/2025-32959)
+
+(1) Bu Yönetmelikte geçen;
+
+a) Bakan: Gençlik ve Spor Bakanını,
+
+b) Bakanlık: Gençlik ve Spor Bakanlığını,
+
+c) Bakan yardımcısı: Gençlik ve Spor Bakanlığı Kredi ve Yurtlar Genel Müdürlüğünün bağlı bulunduğu bakan yardımcısını,
+
+ç) Barınma hizmeti: Bakanlık tarafından yükseköğrenim öğrencilerinin, öğrenimleri süresince barınma ihtiyaçlarının karşılanması amacıyla bu Yönetmelik kapsamında sayılan hizmetleri,
+
+d) Genel Müdür: Gençlik ve Spor Bakanlığı Kredi ve Yurtlar Genel Müdürünü,
+
+e) Genel Müdürlük: Gençlik ve Spor Bakanlığı Kredi ve Yurtlar Genel Müdürlüğünü,
+
+f) İl müdürlüğü: Gençlik ve spor il müdürlüğünü,
+
+g) İl müdürü: Gençlik ve spor il müdürünü,
+
+ğ) Lisans: Ortaöğretime dayalı en az sekiz yarıyıllık bir programı kapsayan yükseköğretimi, h) Lisansüstü: Yüksek lisans veya doktora öğretimini,
+
+ı) Misafir: Yurt ve barınma amacıyla kullanılan hizmet binalarında geçici olarak barınanları,
+
+i) Normal öğrenim süresi: Öğrencinin öğrenim gördüğü bölümün; hazırlık sınıfları, bilimsel hazırlık, yabancı dil destek birimi ve benzerleri dâhil öğrenim süresini,
+
+j) Öğrenci: Bir yükseköğretim kurumuna kayıtlı olup yurtlarda sürekli barındırılan kayıtlı öğrencileri, Türkçe Öğretim Merkezi öğrencilerini, uluslararası öğrencileri,
+
+k) Öğrenci konutu: Bakanlık tarafından yükseköğrenim öğrencilerine barınma hizmetinin verildiği Bakanlık mülkiyetinde ya da tasarrufunda bulunan, sosyal yaşam, çalışma ve dinlenme alanları gibi ortak kullanım alanlarını birlikte içeren ev tipi barınma modeline sahip konutu,
+
+l) Öğrenci sitesi: Birbirleriyle bağlantılı olacak şekilde bir arada bulunan birden çok öğrenci konutunu,
+
+m) Öğretim yılı: Yükseköğretim kurumlarının eğitim ve öğretim takvimine göre yurtların hizmete açıldığı ve kapanıdığı tarihler arasındaki süreyi,
+
+n) Ön lisans: Ortaöğretim yeterliklerine dayalı, en az dört yarıyıllık bir programı kapsayan ve lisans öğretiminin ilk kademesini teşkil eden bir yükseköğretimi,
+
+o) Örgün eğitim: Öğrencilerin, eğitim-öğretim süresince ders ve uygulamalara devam etme zorunluluğunda oldukları eğitim-öğretim türünü,
+
+ö) Yurt: Bakanlık tarafından işletilen öğrenci yurtlarını,
+
+p) Yurt hizmetleri müdürü: İl müdürlüklerinde bulunan yurt hizmetleri müdürünü,
+
+r) Yurt müdürü: Bakanlık tarafından işletilen öğrenci yurtlarında bulunan yurt müdürünü,
+
+s) Yurt müdür yardımcısı: Bakanlık tarafından işletilen öğrenci yurtlarında bulunan yurt müdür yardımcısını,
+
+ifade eder.
+
+İKİNCİ BÖLÜM
+
+Yurt İhtiyacı, Barınma Şartları, Değerlendirme ve Yerleştirme İşlemleri
+
+Yurt ihtiyaç ve önceliklerinin tespiti ile koordinasyonu (Değişik başlık:RG-20/4/2023-32169)
+
+MADDE 5 – (1) Yurt ihtiyaç ve önceliklerinin tespiti ve koordinasyonunu sağlamak amacıyla, yükseköğretim kurumlarının yeri ve öğrenci sayıları, mevcut yurtların kapasitesi, yurt başvuruları, başvuruların karşılanma oranları, binaların fiziki durumları ile sosyal ve bölgesel faktörler, Bakanlığın stratejik planı, iyileştirme programı, kalkınma planı, yıllık programlar, Cumhurbaşkanlığı programı ve eylem planları dikkate alınarak yurt içinde il ve ilçe bazında ve yurt dışında, yurt ihtiyaç ve öncelikleri Bakanlık tarafından tespit edilerek ilgili birimlere bildirilir.
+
+Barınma şartları
+
+MADDE 6 – (1) Öğrencinin yurtlarda barınması için aşağıdaki şartlar aranır:
+
+a) Örgün eğitim veren bir yükseköğretim kurumuna kayıtlı olması.
+
+b) Öğrenim gördüğü yükseköğretim kurumu veya programının, (Mülga ibare:RG-25/10/2024-32703) ailesinin ikamet ettiği il veya ilçe sınırları dışında bulunması.
+
+c) (Değişik:RG-25/10/2024-32703) Kasten işlenen bir suçtan dolayı bir yıl veya daha fazla süreyle hapis cezası ile kesinleşmiş mahkumiyeti ya da affa uğramış olsa bile; Devletin güvenliğine karşı suçlar, anayasal düzene ve bu düzenin işleyişine karşı suçlar, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama, kaçakçılık veya cinsel dokunulmazlığa karşı suçlar, fuhuş, uyuşturucu ve uyarıcı madde imal ve ticareti, kullanımı, kullanımını kolaylaştırma, kullanmak için satın alma, kabul etme veya bulundurma, haksız mal edinme, şike ve teşvik primi suçlarından kesinleşmiş mahkumiyeti bulunmaması.
+
+ç) Yurt dışında bulunan yurtlarda barınan öğrencilerin öğrenim gördükleri ülke kanunlarına göre taksirli suçlar hariç herhangi bir suçtan dolayı hakkında (Değişik ibare:RG-25/10/2024-32703) bir yıl veya daha fazla süreyle hapis cezası ile kesinleşmiş mahkumiyeti bulunmaması.
+
+d) (Değişik:RG-25/10/2024-32703) Bakanlık tarafından işletilen yurtlardan çıkarma cezası almamış olması.
+
+e) Uluslararası öğrencinin, öğrenci belgesi, ilgili kamu kurum ve kuruluşlarından almış olduğu ikamet izni belgesi ile pasaportunun onaylı suretini ibraz etmiş olması.
+
+f) Zorunlu staj hariç brüt asgari ücret tutarının bir buçuk katı üzerinde ücretli bir işte çalışmaması.
+
+g) (Mülga:RG-25/10/2024-32703)
+
+ğ) Toplu yerlerde yaşamaya engel olacak seviyede akıl ve ruh hastalığının olmadığına ve bulaşıcı hastalığının bulunmadığına dair beyanda bulunması.
+
+h) Yurt başvurusu yaptığı tarihte (Değişik ibare:RG-20/4/2023-32169) otuz yaşını doldurmamış olması.
+
+(2) Birinci fıkranın (b) bendinde belirtilen (Değişik ibare:RG-25/10/2024-32703) öğrenci ailesinin ikamet yerinin belirlenmesinde aşağıdaki haller istisna tutulur:
+
+a) Sağlık kurulu raporu ile %40 ve üzerinde engelli olduğu tespit edilen öğrenciler.
+
+b) Lise ve dengi öğrenimlerini (Değişik ibare:RG-20/4/2023-32169) Aile ve Sosyal Hizmetler Bakanlığı bünyesinde barınarak tamamlayan öğrenciler.
+
+c) Devlet koruması altında olan öğrenciler.
+
+ç) Anne ve babası vefat etmiş öğrenciler.
+
+d) Bakanlık tarafından belirlenen il ve ilçeler.
+
+## Başvuru, belge ve durum araştırması
+
+MADDE 7 – (1) Yurtlarda barınmak isteyen öğrenci, Bakanlık tarafından belirlenen usul ve esaslara göre başvuruda bulunur.
+
+(2) Başvuruda, öğrencinin beyanı esastır. Bakanlık, öğrencinin yurtta barındırılmasına esas teşkil eden bilgi ve belgelerin doğruluğunu tespit etmek amacıyla araştırma yapabilir. Araştırma sonucunda, beyan ile tespitler arasında fark bulunması halinde, kamu kurum ve kuruluşlarından temin edilen bilgi ve belgelere göre işlem yapılır.
+
+(3) Başvuru işlemleri ile ilgili diğer hususlar Bakanlık tarafından belirlenir.
+
+## Boş yatakların tespiti
+
+MADDE 8 – (1) Öğretim dönemi başlangıcında aşağıdaki sıralamaya uygun olarak yurt bazında boş yatak sayıları belirlenir:
+
+a) Gerçek ve tüzel kişilerle Bakanlık arasında yapılan protokollere göre yerleştirilecek öğrenciler.
+
+b) Bakanlığın taraf olduğu uluslararası anlaşma ve protokollere göre yerleştirilecek öğrenciler.
+
+c) Yurtdışı Türkler ve Akraba Topluluklar Başkanlığınca yükseköğrenim görmek üzere ülkemize getirilen burslu uluslararası öğrenciler.
+
+ç) Taraf olunan uluslararası anlaşma ve protokollerle yükseköğrenim görmek üzere ülkemize gelen öğrencilerden Bakan tarafından yurtlarda barınması uygun görülenler.
+
+d) Her öğretim yılında; Bakanlık hedef ve politikaları, doğal afet, sosyal olay, ekonomik kriz, kamu güvenliği, ekonomik ve sosyal durumda değişiklik, terör, şiddet, genel ahlak suçu mağduriyeti ve benzeri herhangi bir nedenle Bakanlık tarafından yurda yerleştirilmesi uygun görülen öğrenciler.
+
+e) Yükseköğretim Kurulu tarafından yürütülen uluslararası değişim programlarından yararlanacak öğrenciler.
+
+## Değerlendirme
+
+MADDE 9 – (1) Yurt başvuruları; öğrenci ve ailesinin sosyal, ekonomik durumu, öğrencinin başarısı ve benzeri durumlar dikkate alınarak Bakanlık tarafından belirlenecek kıstaslar doğrultusunda değerlendirilir.
+
+(2) Kamu kurum ve kuruluşlarından temin edilmiş olan belgelerle durumunu belgelendiren öğrenci, aşağıdaki şartlardan herhangi birini taşıması halinde öncelikli olarak yurtlarda barındırılır:
+
+a) Şehit eşi ve çocukları, şehidin çocuğu yoksa bekar kardeşleri.
+
+b) Gazi ve gazi çocukları.
+
+c) %40 ve üzerinde engel durumu olanlar.
+
+c) Anne ve babası vefat etmiş olan yirmi beş yaşını geçmemiş öğrenciler.
+
+d) Lise ve dengi öğrenimlerini (Değişik ibare:RG-20/4/2023-32169) Aile ve Sosyal Hizmetler Bakanlığı bünyesinde barınarak tamamlayanlar.
+
+e) Devlet koruması altında olanlar.
+
+f) Lise ve dengi öğrenimlerini Darüşşafaka Lisesinde tamamlayanlar.
+
+g) Bakanlık tarafından yurtlarda barınmada öncelikli olacak milli sporcu belgesine sahip sporculara ilişkin belirlenen kriterleri taşıyanlar.
+
+ğ) Gönüllü güvenlik korucusu olarak çalışan, çalışırken vefat eden veya emekliye ayrılanların çocukları.
+
+h) Her öğretim yılında Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı tarafından yapılan öğrenci seçme ve yerleştirme sınavlarında her puan türünde, ham puan bazında ilk yüze giren öğrenciler.
+
+(3) Bakanlık, ikinci fıkrada sayılan öğrencilere ilave olarak, kalkınma planı, yıllık programlar, Cumhurbaşkanlığı programı, eylem planları, Bakanlığın hedef ve politikaları ile stratejik planı çerçevesinde yurtta barındırılmaları Bakanlık tarafından uygun görülenler ile ihtiyaç duyulması veya mücbir sebeplerin ortaya çıkması halinde öncelikli olarak yurtlarda barındırılacak diğer öğrencileri belirleyebilir.
+
+(4) Değerlendirme işlemleri ile ilgili diğer hususlar Bakanlık tarafından belirlenir.
+
+## Yerleştirme ve kayıt işlemleri
+
+MADDE 10 – (1) Yurt başvuru değerlendirme sonucu, her bir öğrencinin kendine ait bilgileri görebileceği şekilde elektronik ortamda duyurulur. Yurtlarda barınmaya asıl listeden hak kazanan öğrenci, Bakanlık tarafından belirlenen sürede yurt kaydını yaptırır. Asıl listeden kayıt yaptırmayan öğrencinin yerine Bakanlık tarafından belirlenecek olan sürelerde yedek liste sıralaması dikkate alınarak yeni yerleştirme yapılır.
+
+(2) Öğrencilerin, öğrenim gördükleri öğretim programlarının bulunduğu il veya ilçelerdeki yurtlara yerleştirilmeleri esastır. Ancak asıl ve yedek listeden barınmaya hak kazanan öğrencilerin kayıt işlemlerinin tamamlanmasını müteakip yurtta boş yatak bulunması halinde;
+
+a) Yurt bulunmayan ilçelerde öğrenim gören öğrencilerin,
+
+b) Yedek sırası devam eden il veya ilçelerde öğrenim gören öğrencilerin,
+
+c) Yeni açılan yükseköğretim kurumlarında öğrenim gören öğrencilerin,
+
+ç) Öğrenim gördüğü öğretim programı ile (Mülga ibare:RG-25/10/2024-32703) aile ikametgâhı aynı il ve ilçede bulunan, ulaşımı zor olan mahalle, belde veya köylerdeki öğrencilerin, talepleri Bakanlık tarafından değerlendirilir.
+
+(3) (Ek:RG-20/4/2023-32169)(1) Yurtta barınmakta iken öğrenci değişim programları kapsamında geçici olarak yurt dışında öğrenim gören öğrenciler, dönüşlerinde öncelikli olarak yurda yerleştirilirler.
+
+(4) Yerleştirme işlemleri ile ilgili diğer hususlar Bakanlık tarafından belirlenir.
+
+## ÜÇÜNCÜ BÖLÜM
+
+## Yurt Ücreti ve Güvence Bedeli
+
+## Yurt ücreti(2)
+
+MADDE 11 – (1) Yurtlarda barınma ve diğer hizmetler karşılığında yurt ücreti alınır. Yurdun fiziki yapısı ve barındırma durumuna göre farklı yurt ücreti alınabilir.
+
+(2) Yurt ücretlerinin tahsil şekli ile ücret ve güvence bedeli tutarları Bakanlık tarafından tespit edilir.
+
+(3) Yurt ücretleri aylık dönemler halinde otuz gün üzerinden tahakkuk ettirilir. Yurtlarda sürekli barındırılan kayıtlı öğrencilerden Temmuz ve Ağustos aylarına ait yurt ücreti alınmaz. Kayıt olunan ay ile kayıt sildirilen ayda otuz gün üzerinden günlük ücret hesabı yapılır. Kayıt sildirmelerde işlem gününden sonraki günlerin ücreti iade edilir.
+
+(4) (Mülga:RG-25/10/2024-32703)
+
+(5) Yaz okulu, staj ve benzeri nedenlerle nöbetçi yurtlarda kalacak öğrencilerden Bakanlık tarafından belirlenen usul ve esaslar doğrultusunda kayıtlı kaldıkları sürenin ücreti alınır. Yurtlarda sürekli barındırılan kayıtlı öğrencilerden ise Temmuz ve Ağustos aylarında nöbetçi yurtlarda barınmaları halinde yurt ücreti alınır.
+
+(6) Yurtta barınmakta iken vefat eden öğrencilerden son aya ait ücret alınmaz. Yurt ücretini yatırmış olanların ise yatırılan son ay yurt ücreti ve güvence bedeli öğrencinin mirasçılarına iade edilir.
+
+(7) Anlaşma veya protokol ile yerleştirilen öğrencilerin yurt ücreti ve güvence bedelleri anlaşma veya protokolde belirlenen şekilde tahsil edilir. Anlaşma veya protokolde hüküm bulunmaması halinde bu Yönetmelik hükümleri uygulanır.
+
+## Yurt ücretini ödemeyen öğrenciler
+
+MADDE 12 – (1) Yurt ücretini ödemeyen öğrenciler hakkında aşağıdaki işlemler uygulanır: a) (Değişik:RG-25/10/2024-32703)  İçinde bulunulan ayın yurt ücretini ödemesi için öğrenciye ayın son günü saat 23.00’e kadar süre verilir. Ayın son gününün resmî tatil gününe denk gelmesi halinde bu süre takip eden ilk iş günü saat 23.00’e kadar uzatılır. Yurt ücretini süresinde ödemeyen öğrencinin yurt ücreti ayın gün güvence bedelinden mahsup edilir. Güvence bedelini tamamlaması için öğrenciye izleyen ayın 15’i saat 23.00’e kadar, ayın 15’inin resmî tatil gününe denk gelmesi halinde, takip eden ilk iş günü saat 23.00’e kadar süre verilir. Verilen bu sürenin sonunda güvence bedelini tamamlamayanlardan bu günlerin ücreti de mahsup edilerek kayıtları silinir.
+
+b) Yangın, sel ve deprem gibi tabii afetler, kaza veya hastalık, ikinci dereceye kadar akrabalarının vefatı ve diğer zorunlu haller sebebiyle yurt ücretlerini zamanında yatıramayan veya verilen sürede güvence bedelini tamamlayamayanların, hastalık durumunda rapor bitim tarihinden itibaren on iş günü, diğer durumlarda takip eden ayın on beşinci gününe kadar durumlarını belgelendirmeleri kaydıyla, ödenmesi gereken yurt ücreti veya güvence bedeli tahsil edilerek barındırılmalarına devam edilir. Hastalık raporlarının; Sağlık Bakanlığına bağlı resmi sağlık kurumları, aile hekimliği veya Sosyal Güvenlik Kurumu ile sözleşmeli sağlık hizmeti sunucuları tarafından düzenlenmesi gerekir. Yurt dışında bulunan yurtlarda barınan öğrencilerin getirecekleri hastalık raporlarının bulundukları ülkenin resmi sağlık kurumları ya da resmi mercilerince tanınan özel sağlık kuruluşları tarafından düzenlenmiş olması gerekir.
+
+## Güvence bedeli
+
+MADDE 13 – (1) Öğrencilerin zamanında yatırılmayan yurt ücretlerine veya yurda verecekleri zarar ihtimaline karşılık olarak Bakanlık tarafından tespit edilen güvence bedeli alınır.
+
+(2) Süregelen öğretim yıllarında tespit edilecek güvence bedeli tutarının önceden tahsil edilmiş tutardan fazla olması halinde güvence bedeli farkı, yurtta kalan öğrencilere Bakanlık tarafından belirlenen süre sonuna kadar tamamlattırılır. Verilen süre içerisinde ödemesini gerçekleştirmeyen öğrencinin yurtla ilişiği kesilir. Aynı öğretim yılı içinde bu öğrencilerin başvuruları yeniden değerlendirilir.
+
+(3) Yapılan işlemler sonucunda oluşabilecek güvence bedeli farkı, öğrencinin ödemesi gereken yurt ücretinden düşülür.
+
+(4) Öğrencinin yurt malzemesine zarar vermesi halinde zararı karşılaması için öğrenciye durumun tebliğ edildiği tarihten itibaren otuz gün süre verilir. Öğrenci verilen süre içerisinde zararı ödemez ise söz konusu tutar güvence bedelinden tahsil edilerek öğrencinin yurtla ilişiği kesilir. Güvence bedelini aşan kısım bulunması durumunda zarar genel hükümlere göre tahsil edilir.
+
+(5) Öğrencinin yurttan ayrılması ya da kaydının silinmesi nedeniyle kalan güvence bedeli tutarları öğrencinin banka hesabına iade edilir.
+
+(6) Sınavlara girmek üzere gelen ve geçici olarak yurtlarda barındırılan öğrenciler ve Bakanlık mensupları dışındaki misafirlerden alınacak güvence bedeli ile ilgili usul ve esaslarla yurtlarda ücretsiz barındırılan öğrencilerden hangi hallerde güvence bedeli alınmayacağına ilişkin hususlar Bakanlık tarafından tespit edilir.
+
+## Yurt ücreti ve güvence bedeli alınmayacak öğrenciler
+
+MADDE 14 – (1) Yurt ücreti ve güvence bedeli alınmayacak öğrenciler aşağıda belirtilmiştir:
+
+a) Şehit eşi ve çocukları, şehidin çocuğu yoksa bekar kardeşleri.
+
+b) Gazi ve gazi çocukları.
+
+c) Anne ve babası vefat etmiş olan yirmi beş yaşını geçmemiş öğrenciler.
+
+ç) Lise ve dengi öğrenimlerini (Değişik ibare:RG-20/4/2023-32169) Aile ve Sosyal Hizmetler Bakanlığı bünyesinde barınarak tamamlayanlar.
+
+d) Devlet koruması altında olanlar.
+
+(2) Birinci fıkrada yer alan ücretsiz barınma şartlarını taşıyan öğrencilerin geçici olarak yurt ve barınma amacıyla kullanılan hizmet binalarında barınmaları halinde yurt ücreti ve güvence bedeli alınmaz.
+
+(3) (Ek:RG-20/4/2023-32169)(3) Ücretsiz barınmakta iken öğrenci değişim programı ile yurt içi ve yurt dışında öğrenim görecek öğrencilerin dönüşlerinde yurda kayıt yaptırması ve durumunda değişiklik olmaması halinde ücretsiz barındırılmasına devam edilir.”
+
+(4) (Ek:RG-20/4/2023-32169)(3) 15 inci maddenin beşinci fıkrası kapsamında tahliye sebebiyle barındığı yurttan ayrılmak durumunda kalan ve başka yurtlarda barındırılması mümkün olmayan öğrencilerden yurt ücreti alınmaz.
+
+(5) Yurtlarda barınan öğrencilerden maddi zaruret içerisinde bulunanlar veya zorunlu nedenlerle ödeme güçlüğüne düşenler ile deprem, sel, savaş, terör, kamu güvenliği, genel ahlak
+
+suçu mağduriyeti ve benzeri nedenler ile yurtlarda barındırılanlardan ve Bakanlık tarafından düzenlenen eğitim, sosyal, kültürel ve sportif faaliyetlere katılanlardan yurt ücreti alınmamasına Bakan tarafından karar verilebilir.
+
+## DÖRDÜNCÜ BÖLÜM
+
+## Yurtların Açılması, Kapatılması ve Faaliyet Zamanları
+
+Yurtların açılması ve kapatılması
+
+MADDE 15 – (1) Yurtların açılması, hizmete girmesi, kapatılması, nitelik ve nicelik değişikliği yapılması ile ilgili hususlar Bakanlık tarafından hazırlanan usul ve esaslarla belirlenir.
+
+(2) Yurtların olağanüstü olarak süreli veya süresiz kapatılmasına neden olan durumlar aşağıda belirtilmiştir:
+
+a) Yurtta kalan öğrencilerin huzur ve güvenliğini sarsıcı veya yok edici olayların çıkması.
+
+b) Yurdun bir bölümünün dahi olsa mevzuata aykırı maksatlarla veya yurt idaresinin izni olmayan faaliyetler için kullanılması.
+
+c) Yurtta, yurt öğrencisi olmayan kişilerin uyarıya rağmen kalmaya devam etmeleri.
+
+ç) Yurdun genel düzeninin bozulması, idarenin çalışma, öğrencilerin ise güven içinde barınma imkânlarının ortadan kalkması.
+
+d) Yetkili mercilerin emirlerini dinlemeyerek, bir kısım öğrenciler tarafından da olsa yurdun işgal edilmesi veya toplu direnişe geçilmesi.
+
+e) Yurdun bulunmasına esas üniversite veya birimlerinin faaliyetine son verilmesi.
+
+f) Yurtta barınmakta olan öğrencilerin bu Yönetmelik hükümlerine aykırı davranışta bulunmaları.
+
+(3) Yurtların olağanüstü nedenlerle süreli veya süresiz kapatılmasına karar verme yetkisi Bakana aittir.
+
+(4) Yurdun olağanüstü nedenlerle kapatılması halinde yurt derhal boşaltılır. Gerektiğinde güvenlik kuvvetlerinden yardım istenir.
+
+(5) (Ek:RG-20/4/2023-32169) Doğal afet, salgın hastalık ve benzeri nedenler ile yurtların ihtiyaç sahibi kişilerin toplu olarak barındırılması için kullanılmasının zorunlu olduğu hallerde, belirlenen yurtların kısmen veya tamamen geçici olarak tahliyesine Bakan tarafından karar verilebilir.
+
+(6) (Ek:RG-20/4/2023-32169) Yurtların tahliyesine ilişkin diğer usul ve esaslar Bakanlık tarafından belirlenir.
+
+Yurtların faaliyet zamanları
+
+MADDE 16 – (1) Yükseköğretim kurumlarının eğitim-öğretime başlaması ve kapanması dikkate alınarak; yurtların yeni öğretim yılı açılış tarihleri, yaz tatili kapanışları ile yaz tatili süresince hangi yurtlardan ne gibi şartlarla faydalanılacağı Bakanlık tarafından belirlenir.
+
+BEŞİNCİ BÖLÜM Barınma Süreleri ve İzinler
+
+Barınma süreleri
+
+MADDE 17 – (1) Öğrenciler yurtlarda, normal öğrenim süresi kadar barındırılır.
+
+(2) Yurtta barınan öğrenciler, yükseköğretim programına devam ederken bir defaya mahsus aynı il veya ilçede üniversite veya bölüm değiştirmeleri, yatay veya dikey geçiş yapmaları halinde yeni öğretim kurumunun normal öğrenim süresi sonuna kadar yurtta barınmaya devam ederler.
+
+(3) Yurtta barınan öğrenciler, yükseköğretim programına devam ederken bir defaya mahsus farklı il veya ilçede üniversite veya bölüm değiştirmeleri, yatay veya dikey geçiş yaplamaları halinde öğrenim görecekleri il veya ilçede yurda yerleşmek için yeniden müracaat ederler. Bu öğrenciler, yeni öğretim kurumunun normal öğrenim süresi sonuna kadar yurtta barınırlar.
+
+(4) Ara sınıfta yurtta kalmaya başlayan öğrenciler, okula kayıt tarihleri esas alınarak normal öğrenim süresi kadar barınırlar.
+
+(5) (Mülga:RG-20/4/2023-32169) (Yeniden düzenleme:RG-25/10/2024-32703) Yatay veya dikey geçiş yapan öğrencilerin kayıt sonrası intibak ve muafiyet işlemleri sonucunda ilgili
+
+mevzuat gereği yeni öğretim programlarında alamadıkları dersler sebebiyle uzayan eğitim süreleri, barınma sürelerine eklenir.
+
+(6) Bir yükseköğretim programına kayıtlı olan ve yurtta barınan öğrenci, diğer bir yükseköğretim programında çift ana dal veya yan dal eğitimi alması halinde çift ana dal veya yan dal öğrenim süresi kadar daha barındırılır.
+
+(7) Yurtlara kayıt işlemi, öğretim yılı içinde hangi tarihte yapılmış olursa olsun, öğretim yılı sonunda öğrenci bir yıllık yurtta barınma hakkını kullanmış sayılır.
+
+(8) Öğrenci affından yararlanarak yeniden öğrenime başlayan öğrenciler başvuruda bulundukları tarihte bulundukları sınıf esas alınarak (Değişik ibare:RG-20/4/2023-32169) barındırılır.
+
+(9) (Mülga:RG-20/4/2023-32169) (Yeniden düzenleme:RG-25/10/2024-32703) Normal öğrenim süresinde öğrenimlerini tamamlayamayan öğrencilerin yurt kayıtları silinir, tekrar başvuru yapmaları ve yurt hakkı kazanmaları halinde bir öğretim yılı daha yurtlarda barınma imkânı sağlanır.
+
+(10) (Mülga:RG-20/4/2023-32169) (Yeniden düzenleme:RG-25/10/204-32703) Bir öğretim kurumundan mezun olup ikinci bir öğretim kurumunda öğrenim görmeye başlayan öğrenciler, başvuru yapmaları ve yurt hakkı kazanmaları halinde ikinci öğretim kurumunun normal öğrenim süresi kadar barındırılırlar.
+
+(11) (Mülga:RG-20/4/2023-32169) (Yeniden düzenleme:RG-25/10/20 24-32703) Yurtta barınmakta iken değişim programı kapsamında yurtdışına giden öğrencilerin burada geçirdiği eğitim süreleri normal öğrenim süresinden sayılmaz.
+
+(12) Yurtta barınmakta iken öğretim kurumunda kayıt donduran öğrenciler dönüşlerinde öncelikli olarak yurda yerleştirilirler. Kayıt dondurulan süreler normal öğrenim süresinden sayılmaz. Kayıt donduran öğrenciler, normal öğrenim süresi kadar barındırılır.
+
+## Öğrenci izinleri
+
+MADDE 18 – (1) Yurtlara giriş çıkış saatleri ve öğrenci izinleri ile ilgili hususlar Bakanlık tarafından usul ve esaslar ile belirlenir.
+
+## Hastalık ve diğer sebeplerle yurttan geçici ayrılmalar
+
+MADDE 19 – (1) Hastalık ve diğer sebeplerle yurttan geçici olarak ayrılmak isteyen öğrencilerin barınma hakkı, ücretlerini zamanında ödemek ve yurt idaresine bilgi vererek durumlarını belgelendirmek koşuluyla; hastalık durumunda rapor süresince, diğer sebeplerle ayrılmalarda ise bir ay süreyle saklı tutulur. Bu süre sonunda yurda dönmeyen öğrencilerin yurtla ilişikleri kesilir.
+
+## Geçici barınma
+
+MADDE 20 – (1) Yurt ve barınma amacıyla kullanılan hizmet binalarında geçici barınma ile ilgili usul ve esaslar Bakanlık tarafından belirlenir.
+
+## ALTINCI BÖLÜM
+
+## Disiplin işlemleri
+
+## Disiplin cezaları
+
+MADDE 21 – (1) Öğrenciler; Bakanlık tarafından tespit edilen yurt kurallarına uymak zorundadırlar. Aykırı harekette bulunanlara uyarma, kınama ve yurttan çıkarma cezaları uygulanır.
+
+(2) Disiplin cezası verilmesini gerektiren bir fiil veya halin öğrencinin yurtta barındığı sürede gerçekleşmesi durumunda; öğrenci kaydını sildirmiş olsa dahi disiplin işlemi başlatılır.
+
+## Uyarma cezası
+
+MADDE 22 – (1) Uyarma cezası; öğrencinin, yurt içindeki davranışlarında daha dikkatli olması hususunda yazılı olarak uyarılmasıdır.
+
+(2) Uyarma cezasını gerektiren fiil ve haller aşağıda belirtilmiştir:
+
+a) Yurt bina ve tesislerinde başkalarını rahatsız edecek şekilde; yüksek sesle konuşmak, bağırmak, şarkı söylemek, ses ve görüntü aletlerini kullanmak ve gürültü yapmak, kişilerle olan ilişkilerinde kaba ve saygısız davranmak.
+
+b) Yurt odaları ve müşterek kullanıma verilen yer ve eşyanın temizlik, tertip ve düzenine
+
+özen göstermemek, odasını veya çevresini temiz tutmamayı alışkanlık haline getirmek.
+
+c) Yatağını düzeltmemek.
+
+ç) Yurt odalarında veya hizmete verilmiş olan soğutucularda kokuşmuş, bozulmuş yiyecekler bulundurmak, temizliğine ve kullanımına özen göstermemek.
+
+d) Yurt eşya ve malzemelerinin yerini izinsiz değiştirmek.
+
+e) Ziyaret amacıyla ayrılmış yer ve zamanlar dışında ziyaretçi kabul etmek.
+
+f) Su ve elektrik tüketiminde israfa sebep olmak.
+
+g) Daimi ikametgâh adresindeki değişikliği en geç otuz gün içerisinde yurt idaresine bildirmemek.
+
+ğ) Geceyi izinsiz veya mazeretsiz olarak bir gün yurdun dışında geçirmek.
+
+h) Yurda giriş ve çıkış saatlerine uymamak, izinsiz olarak yurttan ayrılmak.
+
+ı) Kullanılmasına izin verilmeyen yerlerde elektrikli ve benzeri ısıtıcı araç ve gereç bulundurmak, bunları kullanarak yiyecek/içecek hazırlamak.
+
+i) Sigara yasağına uymamak.
+
+j) Yurt ve tesislerinde lokanta, kantin, çamaşırhane ve benzeri alanlarda kullanılan malzemeleri izinsiz olarak öğrenci odalarına çıkarmak veya bu malzemelere zarar vermek.
+
+k) İdareye yanlış bilgi vermek, telefon bilgilerinde değişiklik olması durumunda yurt idaresini bilgilendirmemek, bilgileri güncellememek.
+
+l) Yurt idaresi tarafından istenen bilgileri eksik veya yanlış vermek ya da hiç vermemek.
+
+m) Bu fıkrada sayılan fiil veya hallere benzer davranışlarda bulunmak.
+
+Kınama cezası
+
+MADDE 23 – (1) Kınama cezası; öğrenciye yurt içindeki davranışlarında kusurlu bulunduğunun yazılı olarak bildirilmesidir.
+
+(2) Kınama cezasını gerektiren fiil ve haller aşağıda belirtilmiştir:
+
+a) Yurttan ayrılırken veya yurt idaresince gerekli görülen durumlarda dolap, bavul ve benzeri özel eşyalarının aranması için, yurt idaresinin gerekli işlemleri yapmasına engel olmak.
+
+b) Her ne şekilde olursa olsun yurt idaresinden izin almadan bağış veya yardım toplamak.
+
+c) Yurt bina ve tesislerine izinsiz ilan, poster veya afiş yapıştırmak veya bunları dağıtmak.
+
+ç) Yurt bina ve tesislerine veya demirbaş eşyaya zarar vermek.
+
+d) Yurt idaresince ya da idarenin izniyle asılmış duyuruları koparmak, yırtmak, karalamak veya değiştirmek.
+
+e) Başkasının beslenme yardımını kullanmak veya başkasının yararlanmasını sağlamak.
+
+f) Yurtta, huzur ve disiplinin sağlanması için yurt idaresince konulan kurallara uymamak, idarenin çalışmalarını güçleştirmek.
+
+g) Yurt yöneticilerinin veya yurt disiplin kurulunun çağrılarına uymamak, çağrı yazılarını almaktan kaçınmak ya da disiplin yönünden takip ve soruşturmayla ilgili işleri engellemek.
+
+ğ) Yasal niteliği bulunmayan, kazanç kastı ile oyun oynamak veya oynatmak.
+
+h) Genel ahlak kurallarına uymayan, kişi veya toplumu tahrik eden davranış ve eylemlerde bulunmak, resim ve afiş asmak.
+
+ı) Yurt görevlilerine hakaret etmek.
+
+i) Yurt arkadaşlarını tehdit etmek, kavga çıkarmak.
+
+j) Geceyi izinsiz veya mazeretsiz üst üste iki gün yurdun dışında geçirmek.
+
+k) Başkasına ait eşyayı izinsiz kullanmak veya zarar vermek.
+
+l) Yurda alkollü gelmek.
+
+m) Yurt bina ve eklentileri ile açık alanlarında hayvan beslemek.
+
+n) Bakanlık yurtlarında barınmakta iken Bakanlığın başka bir yurduna izinsiz olarak girmek veya barınmak.
+
+o) Yurt kurallarını içeren taahhütnamede belirtilen hususlara uymamak.
+
+ö) Bu fıkrada sayılan fiil veya hallere benzer davranışlarda bulunmak.
+
+Yurttan çıkarma cezası
+
+MADDE 24 – (1) Yurttan çıkarma cezası; öğrencinin, öğrenimi süresince Bakanlık yurtlarından herhangi birine alınmamak üzere yurtla ilişiğinin kesilmesidir.
+
+(2) Yurttan çıkarma cezasını gerektiren fiil ve haller aşağıda belirtilmiştir:
+
+a) Hırsızlık yapmak.
+
+b) Bilişim sistemleri vasıtasıyla başkasının kişisel verilerini hukuka aykırı şekilde elde ederek zarara sebebiyet vermek.
+
+c) Yurt idaresi ile idarecileri ve görevlilerine karşı toplu ya da ferdi olarak sözlü veya yazılı şekilde küçük düşürücü demeçte bulunmak, bunu özendirmek, kışkırtmak, tehdit etmek veya fiili saldırıda bulunmak.
+
+ç) (Değişik ibare:RG-20/4/2023-32169) Basın, sosyal ve görsel medya yoluyla veya fiziki olarak yurt bina ve eklentilerinde; Bakanlık veya diğer kamu kurum ve kuruluşları ile yöneticilerine, (Değişik ibare:RG-20/4/2023-32169) yurt personeline, yurt öğrencilerine hakaret etmek, tehditte bulunmak veya aleyhlerinde gerçeğe aykırı beyanda bulunmak, bireysel ya da toplu halde eylemlerde bulunmak veya bu eylemlere teşvik etmek.
+
+d) Ateşli silah, patlayıcı madde, mermi, bıçak ve benzeri salt saldırı veya savunmada kullanılmak üzere özel olarak yapılmış bulunan diğer alet ve benzeri maddeleri yurda sokmak, yapmak, taşımak, bulundurmak, kullanmaya teşebbüs etmek, teşvik etmek veya ticaretini yapmak.
+
+e) Devletin güvenlik kuvvetlerine karşı gelmek, hakaret etmek, fiili saldırıda bulunmak veya silah kullanmak.
+
+f) Türkiye Cumhuriyeti Devletinin, Anayasada belirtilen niteliklerine aykırı davranışlarda bulunmak, milli birlik ve bütünlük duygularını zedeleyici veya bozucu maksatla bayrak veya sembol asmak, kullanmak, marşlar söylemek, açlık grevinde bulunmak, oturma eylemi yapmak, pankart taşımak veya asmak, ideolojik veya politik amaçlı gösteri, toplantı, tören düzenlemek, demeç vermek, katılmak veya katılmaya zorlamak.
+
+g) Yurt bina ve tesisleri içinde herhangi bir yere veya dış duvarlarına ideolojik maksatla yazı yazmak, resim yapmak, afiş, poster ve benzeri şeyler asmak, astırmak veya dağıtmak.
+
+ğ) Yasadışı kuruluş ve örgütlere üye olmak, örgütün cebir, şiddet veya tehdit içeren yöntemlerini meşru gösterecek veya övecek ya da bu yöntemlere başvurmayı teşvik edecek şekilde propagandasını yapmak, bu örgüt ve kuruluşların eylem ve etkinliklerine katılmak veya bu eylem ve etkinliklerde bulunmak ya da başkalarının bu eylem ve etkinliklere katılması için baskı yapmak.
+
+h) Sarhoşluk etkisiyle rahatsız edici davranışlarda bulunmak, yurt içinde alkollü içki kullanmak veya bulundurmak.
+
+ı) Uyuşturucu, uçucu, uyarıcı ve benzeri maddeleri kullanmak, taşımak, bulundurmak, imal etmek, yetiştirmek veya ticaretini yapmak.
+
+i) (Mülga:RG-25/10/2024-32703)
+
+j) Yurdun öğrencisi olmayan kişilerin yurda girmesini sağlamak veya barındırılmasına yardımcı olmak.
+
+k) Yurt öğrencileri üzerinde siyasi baskı uygulamak.
+
+l) Terör örgütlerinin faaliyetlerine katılmak.
+
+m) Yurt binası ve eklentilerinde darp etmek suretiyle, kişilere zarar vermek veya öğrencileri sindirmek.
+
+n) Yasaklı yayınları bulundurmak veya dağıtmak.
+
+o) (Değişik:RG-25/10/2024-32703) Kasten işlenen bir suçtan dolayı bir yıl veya daha fazla süreyle hapis cezası ile kesinleşmiş mahkumiyeti ya da affa uğramış olsa bile; Devletin güvenliğine karşı suçlar, anayasal düzene ve bu düzenin işleyişine karşı suçlar, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama, kaçakçılık veya cinsel dokunulmazlığa karşı suçlar, fuhuş, uyuşturucu ve uyarıcı madde imal ve ticareti, kullanımı, kullanımını kolaylaştırma, kullanmak için satın alma, kabul etme veya bulundurma, haksız mal edinme, şike ve teşvik primi suçlarından kesinleşmiş mahkumiyeti bulunmak veya bu suçlardan haklarında derdest kamu davası bulunmak ya da yurt binası ve eklentilerinde bu suçları oluşturacak fiilleri gerçekleştirmek.
+
+(3) Yurt müdürü; bu madde hükümlerine göre disiplin soruşturması yapılmakta olan öğrencilerin, bir aya kadar yurt binalarına girmesini tedbir olarak yasaklayabilir. Bu sürenin her defasında bir ayı aşmamak üzere uzatılmasında il müdürü yetkilidir.
+
+Disiplin cezalarının onay mercileri
+
+MADDE 25 – (1) Disiplin kurulu tarafından teklif edilen uyarma cezası yurt müdürünün; kınama cezası il müdürünün; yurttan çıkarma cezası Genel Müdürün onayı ile yürürlüğe girer.
+
+(2) Yurt müdürünün disiplin kurulu başkanı olması halinde, bu kurulun uyarma cezasına ilişkin kararları, ayrıca bir onaya gerek kalmadan yürürlüğe girer.
+
+Disiplin suçunun tekrarı
+
+MADDE 26 – (1) Disiplin cezası verilmesine sebep olan aynı fiil veya halin öğrencinin yurtta barındığı sürede tekrarında, bir derece ağır ceza (Değişik ibare:RG-20/4/2023-32169) uygulanabilir.
+
+(2) Geceyi izinsiz ve mazeretsiz yurdun dışında geçirmesi nedeni ile verilen uyarma ve kınama cezalarına ilişkin fiillerin tekrarında bir derece ağır ceza uygulanabilmesi için söz konusu fiillerin, içinde bulunulan öğretim yılında işlenmiş olması gerekir.
+
+(3) Aynı derecede ceza gerektiren, fakat ayrı fiil veya haller nedeniyle onaylanmış disiplin cezalarının üçüncü kez uygulanmasında bir derece ağır ceza verilir.
+
+Disiplin cezasının ağırlaştırılması veya hafifletilmesi
+
+MADDE 27 – (1) Disiplin cezası verilirken, öğrencinin yurt içinde ve dışındaki hal ve hareketi, yurt idaresi ve arkadaşlarına karşı tutumu, fiil veya hallerin ne gibi şartlar altında işlenmiş olduğu, psikolojik durumu ve diğer sebepler de göz önünde bulundurularak bir derece ağır veya hafif ceza verilebilir. Ancak 26 ncı maddeye göre bir derece ağır ceza uygulanmış ise bu madde hükmüne göre tekrar ağırlaştırma yapılamaz.
+
+(2) Ceza tespitinde, aynı cezanın verilmesini gerektiren birden fazla fiilin işlenmesi veya toplu fiil işlemeyi teşvik halinde bir derece hafif ceza uygulaması yoluna gidilemez.
+
+(3) Birden çok cezanın verilmesini gerektiren fiillerin işlenmesi halinde, (Değişik ibare:RG-25/10/2024-32703) bu fiillere ilişkin cezaların en ağırı verilir.
+
+(4) Genel Müdür yurttan çıkarma cezası, il müdürü kınama cezası teklifini bir derece hafifletebilir.
+
+Disiplin cezasına itiraz
+
+MADDE 28 – (1) Öğrenci, disiplin cezalarının tebliği tarihini takip eden yedi gün içinde disiplin cezalarına itiraz edebilir. İtirazlar; uyarma cezasında il müdürlüğüne, kınama cezasında Genel Müdürlüğe, yurttan çıkarma cezasında ise Bakanlığa yapılır.
+
+(2) Uyarma cezasında il müdürü, kınama cezasında Genel Müdür, yurttan çıkarma cezasında ise Bakan yardımcısı itiraz üzerine karar vermeye yetkilidir.
+
+(3) İtiraz, kararın uygulanmasına engel olmaz. İtiraz üzerine verilen kararlar kesindir.
+
+(4) Bakan yardımcısı itiraza konu yurttan çıkarma cezasının uygulanmasını karar verinceye kadar durdurabilir, cezayı onaylayabilir, bir alt ceza verebilir ya da kaldırabilir.
+
+(5) İtiraz mercileri, itiraz dilekçesi ile karar ve eklerinin kendilerine intikalinden itibaren otuz gün içinde kararlarını vermek zorundadır.
+
+Disiplin kurulunun teşekkülü
+
+MADDE 29 – (1) Disiplin kurulu; her yıl Eylül ayında yurt müdürünün teklifi, yurt hizmetleri müdürünün uygun görüşü ve il müdürünün onayı ile teşekkül eder.
+
+(2) Disiplin kurulu yurt müdür yardımcısının başkanlığında, yardımcı hizmetler sınıfı dışındaki memur personel arasından görevlendirilecek iki üyeden oluşur. Ayrıca iki yedek üye aynı usulle tespit edilir. Yurt müdür yardımcısının bulunmaması halinde ise yurt müdürü, disiplin kuruluna başkanlık eder.
+
+(3) Memur personeli herhangi bir sebeple ikiden az olan yurtlarda disiplin kurulu il müdürlüğünce teşekkül ettirilir.
+
+(4) Disiplin kurulu üye tam sayısının salt çoğunluğu ile toplanır ve kararlar toplantıya katılanların salt çoğunluğu ile alınır. Çekimser oy kullanılamaz. Oyların eşit olması halinde başkanın oyu yönünde çoğunluk sağlanmış sayılır.
+
+## Disiplin kurulunun çalışma usul ve esasları
+
+MADDE 30 – (1) Disiplin kurulu, yurtlarda barınan öğrencilerin disiplin işlemleri ile ilgili konularda karar alır.
+
+(2) Disiplin kurulunun çalışma usul ve esasları aşağıda belirtilmiştir:
+
+a) Disiplin kurulu başkan ve üyesi dışında yurt müdürü veya görevlendireceği personel tarafından, öğrencinin disiplin kuruluna sevkinden önce gerekli inceleme ve araştırma yapılır.
+
+b) Görevlendirilen personel, öğrencinin yazılı ifadesini alır. Öğrenci ifadesini, ifade çağrı yazısının tebliğ tarihinden itibaren yurtta bulunduğunda üç iş günü, yurtta bulunmaması halinde ise yedi iş günü içinde vermek zorundadır. Öngörülen süreler içerisinde ifade verilmemesi halinde, öğrenci ifade vermekten vazgeçmiş sayılır.
+
+c) Görevlendirilen personel, öğrencinin yazılı ifadesini ve konu ile ilgili her türlü bilgi ve belgeleri de ekleyerek sonucu bir rapor halinde yurt müdürüne sunar.
+
+ç) Araştırma veya incelemenin yurt müdürü veya görevli personel tarafından yapılmasını müteakip, yurt müdürü gerekli görürse disiplinle ilgili konuları iki iş günü içinde disiplin kuruluna havale eder.
+
+d) Disiplin kurulu gerek görürse soruşturmayı genişletebilir.
+
+e) Disiplin kurulu tarafından öğrencinin savunması alınır. Öğrenci tebliğ tarihinden itibaren yurtta bulunduğunda üç iş günü, yurtta bulunmaması halindе ise yedi iş günü içinde yazılı savunma vermediği takdirde savunma hakkından vazgeçmiş sayılır.
+
+f) Disiplin kurulu tarafından savunması alınmadan öğrenciye ceza verilemez.
+
+g) Disiplin kurulu, savunmanın kurula intikal ettiği tarihten itibaren üç iş günü içinde toplanır ve yedi iş günü içinde karar verir. Bu süre içinde çalışmalar tamamlanmadığı takdirde ara karar alınarak yedi iş gününü geçmemek üzere süre uzatılabilir. Karar tarihini takip eden ilk iş günü kararın onay mercilerine intikali için gerekli işlemler tamamlanır.
+
+<table><tr><td rowspan="2"></td><td>ğ) Karara bağlanacak olayın disiplin kurulu başkanı veya üyelerin şahsıyla ya da üçüncü</td><td>None</td></tr><tr><td>None</td><td>None</td></tr></table>
+
+h) Onaylanan disiplin cezaları Disiplin Kurulu Karar Defterine işlenir. Karar numarası yurtların hizmete açıldığı ay itibariyle yılı belirtilerek her öğretim yılında yeniden verilir.
+
+ı) Yeterli personel bulunmadığı durumlarda disiplin kurulu yedek üyesi disiplin kurulunda görevli değilse gerekli inceleme ve araştırmayı yapmak üzere görevlendirilebilir.
+
+## Disiplin cezalarının tebliği
+
+MADDE 31 – (1) Disiplin işlemlerine ait her türlü tebligat öğrenciye imza karşılığı yapılır. Öğrenci tebligatı almaktan imtina ederse durum bir tutanakla tespit edilir ve bu durumda tebligat kendisine yapılmış sayılır.
+
+(2) Öğrencinin yurttan herhangi bir sebeple ayrılması halinde 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre işlem yapılır.
+
+(3) Öğrenci, yurttan çıkarma cezasının tebliğinden itibaren yurdu terk etmek zorundadır. Ancak yurt müdürü gerektiğinde bir haftaya kadar süre verebilir.
+
+(4) Disiplin cezalarına ilişkin veriler öğrencinin kaydına işlenir ve Bakanlık bilişim sistemine kaydedilir.
+
+(5) Disiplin cezaları reşit olmayan öğrencinin velisine bildirilir. Yurttan çıkarma cezaları ise ayrıca öğrencinin kayıtlı bulunduğu öğretim kurumuna yazılı olarak  bildirilir.
+
+Adli işlemler ile disiplin işlemlerinin birlikte yürütülmesi
+
+MADDE 32 – (1) Aynı olaydan dolayı öğrenci hakkında adli işlem başlatılmış olması, disiplin işlemlerinin yapılmasını geciktirmez ve disiplin cezalarının uygulanmasına engel olmaz.
+
+Öğrencinin yurtla ilişiğinin kesilmesi(4)
+
+MADDE 33 – (1) Yurtta barınma şartlarından herhangi birini taşımadığı sonradan anlaşılanlar veya herhangi birini sonradan kaybetmiş olanların yurtla ilişikleri kesilir. Disiplin hükümlerine aykırı davrananlar için ise disiplin süreci işletilir.
+
+(2) Terör örgütlerinin eylemlerine katıldığı tespit edilenlerin yurtla ilişiği kesilir ve disiplin
+
+süreci işletilir.
+
+(3) Devam etmekte oldukları öğretim kurumundan bir aydan fazla uzaklaştırma cezası almış olanların, yeniden öğrenime başladıkları tarihe kadar yurtla ilişikleri kesilir ve yurtta barınmaları için yeniden müracaat etmeleri gerekir.
+
+(4) (Ek:RG-25/10/2024-32703) Geceyi izinsiz veya mazeretsiz olarak üst üste üç gün veya aynı öğretim döneminde aralıklı olarak toplamda on gün yurdun dışında geçirenlerin yurtla ilişiği kesilir. Bu fıkra kapsamında yurtla ilişiği kesilenlerin yurtta barınmaları için yeniden müracaat etmeleri gerekir.
+
+(5) (Ek:RG-25/10/2024-32703) Gerekli görülen hallerde disiplin kurulu kararıyla toplu yerlerde yaşamaya engel olacak seviyede akıl ve ruh hastalığının olmadığı veya bulaşıcı hastalığının bulunmadığına dair öğrenciden sağlık raporu istenebilir. Bu durumda öğrenciye sağlık raporunu getirmesi için bir ay süre verilir. Öğrencinin sağlık raporunu verilen sürede getirmemesi halinde yurtla ilişiği kesilir.
+
+(6) İlişik kesme işlemi yurt müdürü tarafından re’sen uygulanır. İlişiği kesilen öğrenciler en geç üç iş günü içinde Bakanlığa bildirilir.
+
+Yurt dışında bulunan yurtlardaki disiplin işlemleri
+
+MADDE 34 – (1) Bakanlığın yurt dışında bulunan yurtlarında, bu Yönetmeliğin altıncı bölümünde belirtilen iş ve işlemleri yürütecek merciler Bakan tarafından belirlenir.
+
+YEDİNCİ BÖLÜM
+
+Çeşitli ve Son Hükümler
+
+Misafirlerin yurtla ilişiğinin kesilmesi
+
+MADDE 35 – (1) Barındıkları yurt ve diğer hizmet binalarında huzur ve disiplini bozduğu veya idarenin çalışmasını güçleştirdiği tespit edilen misafirlerin yurtla ilişiği kesilir. İlişik kesme işlemi yurt müdürü tarafından re’sen uygulanır.
+
+Normal mesai saatleri dışında yurtlarda verilen hizmet
+
+MADDE 36 – (1) Yurtlarda, Bakanlık tarafından belirlenecek usul ve esaslara göre özel hizmet ve gece hizmetleri verilir. Bu hizmeti yürütmek üzere gerekli personel bulundurulur. Özel hizmet ve gece hizmeti, hizmetin devamıdır.
+
+Yurtların denetimi
+
+MADDE 37 – (1) Yurtlar, Bakanlık merkez ve taşra teşkilatı tarafından denetlenir.
+
+Uluslararası öğrenciler
+
+MADDE 38 – (1) Uluslararası öğrenciler hakkında da bu Yönetmelik hükümleri uygulanır. Ancak gerek ikili anlaşmalara, gerekse ilgili mercilerce talep edilecek hususlara dair karar almaya Bakanlık yetkilidir.
+
+(2) Uluslararası öğrenciler, Türk vatandaşlığına geçseler dahi 9 uncu maddenin ikinci fıkrasında belirtilen öncelik durumları ve 14 üncü maddenin birinci fıkrasında belirtilen yurt ücreti ve güvence bedeli alınmayacak öğrenciler kapsamında değerlendirilmez.
+
+Yurt müdürlüklerinde tutulacak defter ve dosyalar
+
+MADDE 39 – (1) Bakanlık tarafından belirlenen defter ve dosyalar yurt müdürlükleri tarafından fiziki ortamda veya Bakanlık bilişim sistemine işlenir.
+
+Başvuru değerlendirme ve öğrenci yerleştirme işlemleri
+
+MADDE 40 – (1) Başvuru değerlendirme ve öğrenci yerleştirme işlemleri Bakanlık bilişim sistemi üzerinden Bakanlık tarafından yapılır.
+
+Öğrenci yurt nakil işlemleri
+
+MADDE 41 – (1) Öğrenci yurt nakil işlemleri Bakanlık tarafından belirlenir.
+
+(2) (Ek:RG-20/4/2023-32169) Öğrenci değişim programları kapsamında geçici olarak yurt içinde farklı şehirde öğrenim görecek yurt öğrencileri, öncelikli olarak öğrenim göreceği şehirdeki yurtlara nakledilirler. Söz konusu öğrenciler, dönüşlerinde ise esas öğrenim gördükleri şehirdeki yurtlara yine öncelikli olarak nakledilirler.
+
+Usul ve esaslar
+
+MADDE 42 – (1) Bu Yönetmeliğin yürütülmesi ile ilgili iş ve işlemler Bakanlık tarafından hazırlanacak usul ve esaslarla belirlenir.
+
+Yurt hizmetlerinin değerlendirilmesi
+
+MADDE 43- (Mülga:RG-20/4/2023-32169) (Başlığı ile Birlikte Yeniden Düzenleme:RG-25/10/2024-32703)
+
+(1) Yurtlarda öğrencilere sunulan barınma, beslenme, eğitim, güvenlik, temizlik ve diğer hizmetler Genel Müdürlük tarafından hazırlanan kalite standartları doğrultusunda yürütülür ve değerlendirilir.
+
+Atıflar
+
+MADDE 44 – (1) Diğer mevzuatta yer alan yurttan süresiz çıkarma cezasına yapılan atıflar bu Yönetmelikte yer alan yurttan çıkarma cezasına yapılmış sayılır. Bu Yönetmeliğin yürürlüğe girmesinden önce verilen yurttan süresiz çıkarma cezaları, yurttan çıkarma cezası olarak kabul edilir.
+
+Yürürlükten kaldırılan yönetmelik
+
+MADDE 45 – (1) 9/8/2016 tarihli ve 29796 sayılı Resmî Gazete'de yayımlanan Yüksek Öğrenim Kredi ve Yurtlar Kurumu Yurt İdare ve İşletme Yönetmeliği yürürlükten kaldırılmıştır.
+
+Öğrenci konutu
+
+EK MADDE 1- (Ek:RG-18/7/2025-32959)
+
+(1) Bakanlık, yükseköğrenim öğrencilerinin barınma ihtiyaçlarını karşılamak amacıyla mülkiyetinde ya da tasarrufunda bulunan konut niteliğindeki taşınmazları, öğrenci konutu şeklinde işletebilir.
+
+(2) Bu Yönetmelikte yer alan yurtlara ilişkin hükümler niteliğine uygun düştüğü ölçüde öğrenci konutları hakkında da uygulanır.
+
+Disiplin soruşturmaları
+
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce işlenmiş olan ve disiplin cezasını gerektiren fiil ve haller veya devam eden disiplin soruşturmaları hakkında, 45 inci madde ile yürürlükten kaldırılan Yönetmelik hükümleri, öğrencinin lehine olan durumlarda ise bu Yönetmelik hükümleri uygulanır.
+
+Yurtlarda barınan öğrenciler
+
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önceki öğretim yılında yurtlarda barınan ve normal öğrenim süresi içinde öğrenimlerini tamamlayamayan öğrenciler, talep etmeleri ve yurt kapasitesinin yeterli olması kaydıyla normal öğrenim sürelerine bir öğretim yılı daha eklenerek barındırılır.
+
+Yürürlük
+
+MADDE 46 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+Yürütme
+
+MADDE 47 – (1) Bu Yönetmelik hükümlerini Gençlik ve Spor Bakanı yürütür.
+
+(1) 20/4/2023 tarihli ve 32169 sayılı Resmî Gazete'de yayımlanan değişiklik ile Yönetmeliğe 10 uncu maddesinin ikinci fıkrasından sonra gelmek üzere üçüncü fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
+
+(2) 20/4/2023 tarihli ve 32169 sayılı Resmî Gazete'de yayımlanan değişikliğ ile Yönetmeliğe 11 inci maddesinin üçüncü fıkrasından sonra gelmek üzere dördüncü fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
+
+(3) 20/4/2023 tarihli ve 32169 sayılı Resmî Gazete'de yayımlanan değişiklık ile Yönetmeliğe 14 üncü maddesinin ikinci fıkrasından sonra gelmek üzere üçüncü ve dördüncü fıkralar eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
+
+(4) 25/10/2024 tarihli ve 32703 sayılı Resmî Gazete'de yayımlanan değişiklik ile Yönetmeliğe 33 üncü maddesinin üçüncü fıkrasından sonra gelmek üzere dördüncü ve beşinci fıkralar eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
+
+<table><tr><td rowspan="2"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete'nin</td></tr><tr><td>Tarihi</td><td>Sayısı</td></tr></table>
+
+<table><tr><td></td><td>9/4/2021</td><td>31449</td></tr><tr><td colspan="3">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr><tr><td></td><td>Tarihi</td><td>Sayısı</td></tr><tr><td>1.</td><td>20/4/2023</td><td>32169</td></tr><tr><td>2.</td><td>25/10/2024</td><td>32703</td></tr><tr><td>3.</td><td>18/7/2025</td><td>32959</td></tr></table>

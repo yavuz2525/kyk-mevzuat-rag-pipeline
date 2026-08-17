@@ -1,0 +1,11 @@
+# DeepSeek-OCR & RAG Pipeline Dependencies
+torch>=2.0.0
+transformers>=4.40.0
+accelerate>=0.28.0
+bitsandbytes>=0.43.0
+PyMuPDF>=1.23.0
+Pillow>=10.0.0
+numpy>=1.24.0
+tqdm>=4.66.0
+requests>=2.31.0
+python-dotenv>=1.0.0
