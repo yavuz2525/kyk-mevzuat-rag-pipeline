@@ -23,6 +23,10 @@ output/_temp/
 **/_temp*
 *.tmp
 
+# Vector Store Cache
+chroma_db/
+*.sqlite3
+
 # IDE & OS Files
 .idea/
 .vscode/
